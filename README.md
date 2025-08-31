@@ -31,10 +31,10 @@ rest-api-assignment/
 
 1. Clone or extract the project.
   
-  ```bash
-   git clone https://github.com/nishandutta/shoppyglobe.git
-   cd shoppyglobe
-   ```
+    ```bash
+    git clone https://github.com/nishandutta/API-CRUD.git
+    cd shoppyglobe
+     ```
 
 2. Install dependencies:
 
