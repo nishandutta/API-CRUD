@@ -30,6 +30,12 @@ rest-api-assignment/
 ## ⚙️ Installation & Setup
 
 1. Clone or extract the project.
+  
+  ```bash
+   git clone https://github.com/nishandutta/shoppyglobe.git
+   cd shoppyglobe
+   ```
+
 2. Install dependencies:
 
    ```bash
